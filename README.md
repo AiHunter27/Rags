@@ -62,4 +62,5 @@ This repository contains a chatbot that generates responses based on various sim
 ### Contact
 
 For any questions or inquiries, please contact @Aswath at https://www.linkedin.com/in/sai-aswath-993b61a9/.
-
+###support
+https://buymeacoffee.com/aswath

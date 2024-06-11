@@ -23,8 +23,8 @@ This repository contains a chatbot that generates responses based on various sim
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/yourusername/chatbot-multiple-outputs.git
-    cd chatbot-multiple-outputs
+    git clone https://github.com/AiHunter27/Rags.git
+    cd Rags
     ```
 
 2. Install the required packages:
@@ -63,3 +63,5 @@ This repository contains a chatbot that generates responses based on various sim
 
 For any questions or inquiries, please contact @Aswath at https://www.linkedin.com/in/sai-aswath-993b61a9/.
 
+### support
+https://buymeacoffee.com/aswath
